@@ -1,3 +1,5 @@
+## Code to compare one string to another to determine whether they match
+
 show_expected_result = False
 show_hints = False
 
